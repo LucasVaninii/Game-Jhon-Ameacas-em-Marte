@@ -27,3 +27,4 @@ Desenvolvido com: Construct 3
 primeira integração com banco de dados, que trouxe uma dificuldade a mais para o projeto, mas de forma geral chega a 
 ser prezeroso ir criando o jogo e aprendendo as noções.
 
+![Funcionamento Firebase](https://github.com/user-attachments/assets/db4890cd-7969-4a2e-aa6e-4ac47e2240a9)
