@@ -26,5 +26,11 @@ Desenvolvido com: Construct 3
 -Feedback: Foi uma otima forma de começar a entender a criação de jogos e também suas complexidades, vendo minha
 primeira integração com banco de dados, que trouxe uma dificuldade a mais para o projeto, mas de forma geral chega a 
 ser prezeroso ir criando o jogo e aprendendo as noções.
+_______________________________________________________________________________________________________________________
+
+Imagens referente ao funcioamento e aplicação da integração:
 
 ![Funcionamento Firebase](https://github.com/user-attachments/assets/db4890cd-7969-4a2e-aa6e-4ac47e2240a9)
+
+![Aplicação Integração](https://github.com/user-attachments/assets/87f7bd9c-8bee-4d36-8bdf-30617e1f8d8d)
+
