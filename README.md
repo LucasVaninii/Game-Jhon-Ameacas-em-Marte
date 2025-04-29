@@ -4,6 +4,8 @@ Sozinho, com poucos recursos e muita coragem, ele precisa enfrentar inimigos let
 
 Será que você consegue ajudar Jhon a sobreviver e derrotar a ameaça robótica?
 
+Jogue Agora 👉🏻 https://lucasvaninii.itch.io/jhon-ameaas-em-marte
+
  -> Como jogar
  
 -Enfrente soldados robôs comuns
